@@ -1,2 +1,6 @@
-streamlit
-request
+fastapi==0.110.0
+uvicorn==0.29.0
+pandas==2.2.1
+scikit-learn==1.4.1
+streamlit==1.31.1
+requests==2.31.0
